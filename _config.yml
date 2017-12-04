@@ -244,7 +244,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single.html
+      layout: "single"
       author_profile: true
       read_time: true
       comments:  true
