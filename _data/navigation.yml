@@ -2,7 +2,7 @@
 main:
   - title: "Skills"
     url: /skills/
-    children:
+    subfolderitems:
       - title: "Programming"
         url: /programming/
       - title: "Languages"
