@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Skills"
+    url: /skills/
+  - title: "Techpubs"
+    url: /techpubs/
   - title: "About"
     url: /about/
+  - title: "Resources"
+    url: /resources/
  #- title: "Sample Posts"
  #    url: /year-archive/
  # - title: "Sample Collections"
