@@ -2,7 +2,7 @@
 main:
   - title: "Skills"
     url: /skills/
-    subitems:
+    sub-title:
       - title: "Programming"
         url: /skills/programming/
       - title: "Languages"
