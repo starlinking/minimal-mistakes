@@ -83,9 +83,9 @@ analytics:
 # Site Author
 author:
   name             : "Star Chang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/star-chang.jpg"
   bio              : "no magic, only basics."
-  location         : "Taipei"
+  ocation         : "Taipei"
   email            :
   uri              :
   bitbucket        :
