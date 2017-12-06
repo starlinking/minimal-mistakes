@@ -2,11 +2,11 @@
 main:
   - title: "Skills"
     url: /skills/
-    subfolderitems:
+    subitems:
       - title: "Programming"
-        url: /programming/
+        url: /skills/programming/
       - title: "Languages"
-        url: /languages/    
+        url: /skills/languages/    
   - title: "Techpubs"
     url: /techpubs/
   - title: "About"
