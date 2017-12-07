@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /search/
   - title: "Techpubs"
-    url: /techpubs-archive/
+    url: /techpubs/
     subtitle:
       - title: "Programming"
         url: /techpubs/programming/
