@@ -1,6 +1,6 @@
 ---
 title:  "Hello World and Tech"
-share: 
+share: true 
 categories: 
   - Personal
   - Tech
