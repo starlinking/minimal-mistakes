@@ -2,7 +2,7 @@
 title:  "Hello World"
 share: 
 categories: 
-  - posts
+  - personal
 tags:
   - test
 ---
