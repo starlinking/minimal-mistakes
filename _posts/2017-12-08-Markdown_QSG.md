@@ -1,5 +1,5 @@
 ---
-title:  "Markdown Writing Guick Getting Started"
+title:  "Markdown Writing Quick Getting Started"
 categories: 
   - Markdown
 tags:
