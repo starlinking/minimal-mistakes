@@ -9,19 +9,18 @@ tags:
 ### Headings
 Code:
 <pre>
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
 </pre>
 Preview:
 ***
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
 ***
 
 ### EMPHASIS
-
 Code:
 <pre>
 *This text will be italic*
@@ -30,7 +29,6 @@ _This text will be italic_
 __This text will be italic__
 *You **can** combine them*
 </pre>
-
 Preview:
 ***
 *This text will be italic*
@@ -45,13 +43,13 @@ __This text will be italic__
 ***
 
 
-# BLOCKQUOTES
+### BLOCKQUOTES
 
-# LISTS
+### LISTS
 
-# BACKSLASH ESCAPES
+### BACKSLASH ESCAPES
 
-# IMAGES
+### IMAGES
 
-# LINKS
+### LINKS
 
