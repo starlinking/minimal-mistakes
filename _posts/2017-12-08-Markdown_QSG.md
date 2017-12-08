@@ -9,6 +9,7 @@ tags:
 ### Headings
 
 Code:
+
 <pre>
 # This is an h1 tag
 ## This is an h2 tag
@@ -16,6 +17,7 @@ Code:
 </pre>
 
 Preview:
+
 ***
 # This is an h1 tag
 ## This is an h2 tag
@@ -25,6 +27,7 @@ Preview:
 ### EMPHASIS
 
 Code:
+
 <pre>
 *This text will be italic*
 _This text will be italic_
@@ -34,6 +37,7 @@ __This text will be italic__
 </pre>
 
 Preview:
+
 ***
 *This text will be italic*
 
