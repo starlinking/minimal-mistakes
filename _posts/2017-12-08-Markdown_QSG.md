@@ -35,6 +35,7 @@ Code:
 Preview:
 
 ***
+
 *This text will be italic*
 
 _This text will be italic_
@@ -44,6 +45,7 @@ _This text will be italic_
 __This text will be italic__
 
 *You **can** combine them*
+
 ***
 
 ### BLOCKQUOTES
