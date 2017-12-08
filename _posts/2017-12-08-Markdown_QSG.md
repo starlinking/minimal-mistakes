@@ -9,11 +9,11 @@ tags:
 ### Headings
 
 Code:
-```
-# This is an h1 tag
-## This is an h2 tag
-###### This is an h6 tag
-```
+
+    # This is an h1 tag
+    ## This is an h2 tag
+    ###### This is an h6 tag
+
 Preview:
 ***
 # This is an h1 tag
@@ -24,17 +24,15 @@ Preview:
 ### EMPHASIS
 
 Code:
-```
-*This text will be italic*
-_This text will be italic_
-**This text will be bold**
-__This text will be italic__
-*You **can** combine them*
-```
+
+    *This text will be italic*
+    _This text will be italic_
+    **This text will be bold**
+    __This text will be italic__
+    *You **can** combine them*
 
 Preview:
 ***
-
 *This text will be italic*
 
 _This text will be italic_
@@ -44,9 +42,7 @@ _This text will be italic_
 __This text will be italic__
 
 *You **can** combine them*
-
 ***
-
 
 ### BLOCKQUOTES
 
