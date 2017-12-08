@@ -17,6 +17,18 @@ tags:
 > ###### This is an <h6> tag
 
 # EMPHASIS
+```
+*This text will be italic*
+_This text will be italic_
+**This text will be bold**
+__This text will be italic__
+*You **can** combine them*
+```
+> *This text will be italic*
+> _This text will be italic_
+> **This text will be bold**
+> __This text will be italic__
+> *You **can** combine them*
 
 # BLOCKQUOTES
 
