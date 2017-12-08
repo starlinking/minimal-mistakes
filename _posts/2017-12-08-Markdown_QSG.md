@@ -9,41 +9,30 @@ tags:
 ### Headings
 
 Code:
-
-<pre>
-
+```
 # This is an h1 tag
 ## This is an h2 tag
 ###### This is an h6 tag
-
-</pre>
-
+```
 Preview:
-
 ***
-
 # This is an h1 tag
 ## This is an h2 tag
 ###### This is an h6 tag
-
 ***
 
 ### EMPHASIS
 
 Code:
-
-<pre>
-
+```
 *This text will be italic*
 _This text will be italic_
 **This text will be bold**
 __This text will be italic__
 *You **can** combine them*
-
-</pre>
+```
 
 Preview:
-
 ***
 
 *This text will be italic*
